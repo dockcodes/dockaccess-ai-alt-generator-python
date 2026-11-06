@@ -1,0 +1,30 @@
+# Polish messages of dockaccess_alt.django.
+msgid ""
+msgstr ""
+"Project-Id-Version: dockaccess-alt-generator 1.0.0\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "This file cannot be read."
+msgstr "Nie można odczytać tego pliku."
+
+msgid "The file is empty."
+msgstr "Plik jest pusty."
+
+msgid "The image is too large."
+msgstr "Obraz jest za duży."
+
+msgid "Upload a JPEG, PNG, GIF, WebP, AVIF or HEIC image."
+msgstr "Prześlij obraz JPEG, PNG, GIF, WebP, AVIF lub HEIC."
+
+msgid "The image is damaged or cannot be read."
+msgstr "Obraz jest uszkodzony albo nie da się go odczytać."
+
+msgid "The image dimensions are too large."
+msgstr "Wymiary obrazu są za duże."
+
+msgid "This image format cannot be processed here. Upload a JPEG, PNG or WebP image."
+msgstr "Tego formatu obrazu nie da się tu przetworzyć. Prześlij obraz JPEG, PNG lub WebP."
